@@ -35,7 +35,7 @@ def showcase():
         print("No animals found in the zoo!")
         return
 
-    print("🦁 Welcome to the CodeZoo!\n")
+    print("🦁 Welcome toddd the CodeZoo!\n")
     for animal in animals:
         print("•", animal.describe())
 
